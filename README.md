@@ -1,2 +1,2 @@
-# GenAI\_ClinicalBot
+# GenAI\_ClinicalBot project
 
