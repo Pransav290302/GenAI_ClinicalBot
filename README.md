@@ -97,7 +97,7 @@ Then open the local URL shown in terminal (usually `http://localhost:8501`).
 ## Expected Excel Input
 
 The app reads each row and combines all columns into text for retrieval.  
-It works best when your file includes clinically meaningful columns, for example:
+It works best when your file includes clinically meaningful columns for example:
 
 - `PatientID`
 - `Symptoms`
@@ -119,7 +119,7 @@ It works best when your file includes clinically meaningful columns, for example
 ## Important Disclaimer
 
 This project is for educational/research prototyping only.  
-It is **not** a substitute for licensed medical judgment, diagnosis, or treatment.
+It is **not** a substitute for licensed medical judgment, diagnosis or treatment.
 
 ## Common Issues
 
